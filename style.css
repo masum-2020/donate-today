@@ -4,3 +4,156 @@ body{
     font-family: 'Roboto', sans-serif;
     font-family: 'Roboto Condensed', sans-serif; 
 }
+section{
+    height: 500px;
+    margin-top: 10px;
+    text-align: center;
+
+}
+h1{
+    font-size: 50px;
+    color: white;
+}
+h2{
+    font-size: 40px;
+    color: dimgray;
+    text-align: center;
+}
+h3{
+    font-size: 40px;
+    color: dimgray;
+    text-align: center;
+}
+h6{
+    font-size: 20px;
+    color: dimgray;
+}
+p{
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: dimgray;
+}
+.text-color{
+    color: white;
+}
+.background{
+    background-image: url("images/donation4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.donate-button{
+    background-color: red;
+    color: white;  
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.font{
+    font-size: 20px;
+}
+.blog{
+    border: none;
+    border-radius: 2px;
+    margin-left:5px;
+    margin-right: 5px;
+    padding: 5px;
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    text-align: center;
+    background-image: linear-gradient(15deg, lightgray, white);
+}
+.underline{
+    margin-top: 50px;
+    text-decoration: underline;
+    color: dimgray;
+
+
+}
+#defarent{
+   border: 2px solid red;
+   background-image: linear-gradient(580deg, pink, white);
+   
+}
+#text-color{
+    color: red;
+}
+.donate-plane{
+    border: none;
+    border-radius: 2px;
+    margin-left:5px;
+    margin-right: 5px;
+    padding: 5px;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    text-align: center;
+
+}
+.margin-top {
+    margin-top: 40px;
+}
+#skyblue{
+    background-image: linear-gradient(15deg, skyblue, white);
+}
+#pink{
+    background-image: linear-gradient(15deg, pink, white);
+}
+#gray{
+    background-image: linear-gradient(15deg, gray, white);
+}
+.text{
+    margin-bottom: 40px;
+}
+.image{
+    margin-top: 30px;
+    margin-right: 120px;
+}
+.boxemail{
+    background-image: linear-gradient(15deg, pink, white);
+    margin-top: 10%;
+    margin-left: 24%;
+    margin-right: 18%;
+    height: 30%;
+    width: 50%;
+    padding: 10px 20px;
+}
+.form-box{
+    background-image: linear-gradient(15deg, gray, white);
+    padding: 5px;
+    border-radius: 5px;
+    background-color: gray;
+    margin-top: 8%;
+    margin-left: 20%;
+    margin-right: 22%;
+    
+}
+.form-box input{
+    font-size: 18px;
+    color: gray;
+    border: none;
+    outline: none;
+}
+
+.form-box button{
+    color:white;
+    padding: 20px 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+}
+.footer{
+    background-color: black;
+    text-align: center;
+    margin-bottom:10%;
+    margin-top: 5%;
+    padding-top: 1%;
+    padding-bottom: 2%;
+}
+.be-humble{
+    color: red;
+    font-style: italic;
+}
